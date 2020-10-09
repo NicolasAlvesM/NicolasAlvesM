@@ -1,4 +1,8 @@
-# Nicolas Moreno Alves Medeiros ![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolas-moreno-24242117a/) [![Gmail Badge](https://img.shields.io/badge/-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nicolas.morenoam@gmail.com)](mailto:nicolas.morenoam@gmail.com)
+# Nicolas Moreno Alves Medeiros <a href="https://www.linkedin.com/in/nicolas-moreno-24242117a/">
+  <img align="left" alt="Nicolas Moreno - Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+</a><a href="mailto:nicolas.morenoam@gmail.com">
+  <img align="left" alt="Nicolas Moreno - Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+</a>
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
