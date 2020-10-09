@@ -1,4 +1,5 @@
-# Nicolas Moreno Alves Medeiros <a href="https://www.linkedin.com/in/nicolas-moreno-24242117a/">
+# Nicolas Moreno Alves Medeiros 
+Get in Touch with me <a href="https://www.linkedin.com/in/nicolas-moreno-24242117a/">
   <img align="left" alt="Nicolas Moreno - Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
 </a><a href="mailto:nicolas.morenoam@gmail.com">
   <img align="left" alt="Nicolas Moreno - Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
