@@ -1,4 +1,10 @@
 # Nicolas Moreno Alves Medeiros 
+Hi there, I'm Nicolas Moreno, a Full Stack Software Development Student,i'm 22 years old from Minas Gerais - Brazil.
+
+-💻 I’m currently learning Node, ReactJS, React Native, Typescript
+-✨ Learning is continuous and there will always be a next level
+-❤ Javascript lover
+
 Get in Touch with me <a href="https://www.linkedin.com/in/nicolas-moreno-24242117a/">
   <img align="left" alt="Nicolas Moreno - Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
 </a><a href="mailto:nicolas.morenoam@gmail.com">
