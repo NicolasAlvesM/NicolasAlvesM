@@ -1,5 +1,5 @@
 # Nicolas Moreno Alves Medeiros 
-Hi there, I'm Nicolas Moreno, a Full Stack Software Development Student,i'm 21 years old from Minas Gerais - Brazil.
+Hi there, I'm Nicolas Moreno, a Full Stack Software Development Student,i'm 23 years old from Minas Gerais - Brazil.
 
 - 💻 I’m currently learning Node, ReactJS, React Native, Typescript
 - ✨ Learning is continuous and there will always be a next level
