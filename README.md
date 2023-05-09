@@ -12,6 +12,8 @@ Get in Touch with me <a href="https://www.linkedin.com/in/nicolas-moreno-2424211
 </a>
 <br/>
 
+![NicolasMoreno github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasAlvesM&theme=dark&title_color=268bd2)
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=NicolasAlvesM&count_private=true&show_icons=true&theme=dark&icon_color=ffcbdb&title_color=ffcbdb" alt="Nicolas" />
 
 <!--
 - 🔭 I’m currently working on ...
