@@ -1,9 +1,8 @@
 # Nicolas Moreno Alves Medeiros 
-Hi there, I'm Nicolas Moreno, a Full Stack Developer,i'm 24 years old from Minas Gerais - Brazil.
+Hi there, I'm Nicolas Moreno, a Full Stack Developer since 2019, i'm 24 years old from Minas Gerais - Brazil.
 
-- 💻 I’m currently learning Node, ReactJS, React Native, Typescript
+- 💻 I’m currently learning go.
 - ✨ Learning is continuous and there will always be a next level
-- ❤ Javascript lover
 
 Get in Touch with me <a href="https://www.linkedin.com/in/nicolas-moreno-24242117a/">
   <img align="left" alt="Nicolas Moreno - Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
