@@ -26,7 +26,7 @@ Get in Touch with me <a href="https://www.linkedin.com/in/nicolas-moreno-2424211
 -->
 
 
-<section>
+<section style="display:flex; justify-content:center; align-items:center">
     <img alt="NodeJS" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" />
     <img align="center" alt="Wel-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Wel-Redux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
