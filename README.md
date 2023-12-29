@@ -1,7 +1,7 @@
 # Nicolas Moreno Alves Medeiros 
 Hi there, I'm Nicolas Moreno, a Full Stack Developer since 2019, i'm 24 years old from Minas Gerais - Brazil. Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.
 
-- 💻 I’m currently learning go.
+- 💻 I’m currently learning go and kotlin.
 - ✨ Learning is continuous and there will always be a next level
 
 Get in Touch with me <a href="https://www.linkedin.com/in/nicolas-moreno-24242117a/">
