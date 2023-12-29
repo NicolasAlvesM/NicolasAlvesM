@@ -26,7 +26,7 @@ Get in Touch with me <a href="https://www.linkedin.com/in/nicolas-moreno-2424211
 -->
 
 
-<section style="display: inline_block" align="center">
+<div style="display: inline_block" align="center">
     <img alt="NodeJS" width="60" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" />
     <img align="center" alt="Wel-React" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Wel-Redux" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
@@ -45,4 +45,4 @@ Get in Touch with me <a href="https://www.linkedin.com/in/nicolas-moreno-2424211
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="60" width="60" alt="eslint logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="60" width="60" alt="go logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" width="60" alt="nextjs logo"  />
-</section>
+</div>
