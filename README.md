@@ -29,7 +29,7 @@ Get in Touch with me <a href="https://www.linkedin.com/in/nicolas-moreno-2424211
 <div style="display: inline_block" >
     <img alt="NodeJS" width="60" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" />
     <img  alt="Wel-React" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" width="60" alt="nestjs logo"  />
+    <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg](https://github.com/devicons/devicon/blob/v2.15.1/icons/nestjs/nestjs-plain.svg)" height="60" width="60" alt="nestjs logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" width="60" alt="nextjs logo"  />
     <img  alt="Wel-Redux" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
     <img alt="Typescript" width="60" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
