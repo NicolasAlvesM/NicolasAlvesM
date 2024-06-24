@@ -6,7 +6,7 @@ Hi there, I'm Nicolas Moreno, a Full Stack Developer since 2019, i'm 24 years ol
 
 Get in Touch with me <a href="https://www.linkedin.com/in/nicolas-moreno-24242117a/">
   <img align="left" alt="Nicolas Moreno - Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
-</a><a href="mailto:nicolas.morenoam@gmail.com">
+</a><a href="mailto:contato@nicolasmoreno.dev">
   <img align="left" alt="Nicolas Moreno - Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
 </a>
 <br/>
