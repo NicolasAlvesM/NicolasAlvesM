@@ -1,8 +1,8 @@
 # Nicolas Moreno Alves Medeiros 
 Hi there, I'm Nicolas Moreno, a Full Stack Developer since 2019, i'm 24 years old from Minas Gerais - Brazil. Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.
 
+Get in Touch with me
 <a href="https://www.linkedin.com/in/nicolas-moreno-24242117a/">
-  Get in Touch with me
   <img align="left" alt="Nicolas Moreno - Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
 </a><a href="mailto:contato@nicolasmoreno.dev">
   <img align="left" alt="Nicolas Moreno - Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
