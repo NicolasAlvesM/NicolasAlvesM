@@ -9,8 +9,8 @@ Get in Touch with me
 </a>
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NicolasAlvesM&theme=gotham&border=61dafb&hide_border=false&background=1A1D21" alt="NicolasAlvesM" width="420" />
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=NicolasAlvesM&count_private=true&show_icons=true&theme=dark&icon_color=ffcbdb&title_color=ffcbdb" alt="Nicolas" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NicolasAlvesM&theme=gotham&border=61dafb&hide_border=false&background=1A1D21" alt="NicolasAlvesM" align="left" />
+![NicolasMoreno github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasAlvesM&theme=dark&title_color=268bd2)
 
 <!--
 - 🔭 I’m currently working on ...
