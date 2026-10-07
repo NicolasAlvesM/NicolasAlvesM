@@ -39,4 +39,8 @@ Get in Touch with me
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" alt="Wel-postgreesql" height="50" width="50" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="Wel-mysql" height="50" width="50"  /> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="Wel-mongodb" height="50" width="50" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./profile/icons/unity-white.svg" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-plain.svg" alt="Unity" height="50" width="50" />
+    </picture>
 </div>
