@@ -9,6 +9,7 @@ Get in Touch with me
 </a>
 <br/>
 
+<img src="./profile/stats.svg" alt="NicolasAlvesM GitHub stats" />
 <img src="./profile/top-langs.svg" alt="NicolasAlvesM top languages" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=NicolasAlvesM&theme=gotham&border=61dafb&hide_border=false&background=1A1D21" alt="NicolasAlvesM" align="left" />
 
