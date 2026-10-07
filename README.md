@@ -29,6 +29,10 @@ Get in Touch with me
 <div style="display: inline_block" >
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="50" width="50" alt="golang logo"  />
     <img alt="NodeJS" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./profile/icons/unity-white.svg" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-plain.svg" alt="Unity" height="50" width="50" />
+    </picture>
     <img  alt="Wel-React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nestjs/nestjs-plain.svg" height="50" width="50" alt="nestjs logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" width="50" alt="nextjs logo"  />
@@ -39,8 +43,4 @@ Get in Touch with me
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" alt="Wel-postgreesql" height="50" width="50" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="Wel-mysql" height="50" width="50"  /> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="Wel-mongodb" height="50" width="50" />
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./profile/icons/unity-white.svg" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-plain.svg" alt="Unity" height="50" width="50" />
-    </picture>
 </div>
